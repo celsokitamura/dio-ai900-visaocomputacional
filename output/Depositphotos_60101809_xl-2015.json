@@ -1,0 +1,15 @@
+
+{
+  "apim-request-id": "7c9c29ef-3c60-4630-b1f8-dca4cb20b59c",
+  "content-length": "158",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a notebook with writing on it",
+    "confidence": 0.6571769118309021
+  },
+  "metadata": {
+    "width": 5832,
+    "height": 4002
+  }
+}
